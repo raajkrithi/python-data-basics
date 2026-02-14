@@ -23,6 +23,10 @@ The goal is to build **strong fundamentals** in:
 
 ### Day 4 - Data Visualization & Insights
 **Focus:** Understanding real-world data using visual analysis with Matplotlib
+
+### Day5 - Real-world API pipeline setup
+**Focus:** Real-world API pipeline setup and export it to CSV
+
 --- 
     
 ## How to Run the Project
