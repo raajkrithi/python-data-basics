@@ -23,6 +23,8 @@ The goal is to build **strong fundamentals** in:
 
 ### Day 4 - Data Visualization & Insights
 **Focus:** Understanding real-world data using visual analysis with Matplotlib
+
+
 --- 
     
 ## How to Run the Project
